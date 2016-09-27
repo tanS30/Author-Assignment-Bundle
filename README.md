@@ -1,4 +1,4 @@
-# Assignment - Do it by Yourself!
+# Assignment - Do it yourself!
 Now that you know everything there is to a Packt video, let's get down to recording our very own sample video!
 
 You'll notice that we have 3 files other than the README:
